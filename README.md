@@ -1,6 +1,8 @@
 # RNA_seq_pipeline
-# 
-# Input files
+# Alignment
+
+# DESeq2
+## Input files
 salmon.output
 sampleFile
 
