@@ -1,4 +1,4 @@
-# RNA_seq_pipeline
+# RNA_seq_pipeline (under development)
 ![RNA-seq](https://user-images.githubusercontent.com/33009124/175131069-17ea3634-6d53-4daa-9707-af87d2d61767.PNG)
 
 # Alignment
